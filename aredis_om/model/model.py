@@ -1,7 +1,7 @@
 import abc
 import dataclasses
 import decimal
-import json
+import orjson as json
 import logging
 import operator
 from copy import copy
